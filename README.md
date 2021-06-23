@@ -1,5 +1,7 @@
 ### Namaste 🙏
 
+https://github-readme-stats.vercel.app/api?username=kritish58&count_private=true&&show_icons=true&title_color=6e9a44&icon_color=bad072&text_color=d5e2ed&bg_color=023026&fbclid=IwAR0IyWkThrhvEulrwsa-52KTiUUCo6G4h4alQk6hJdqFA6y3gForrgXN-V4
+
 <!--
 **Kritish58/Kritish58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
