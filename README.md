@@ -3,7 +3,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=kritish58&count_private=true&&show_icons=true&title_color=6e9a44&icon_color=bad072&text_color=d5e2ed&bg_color=023026&fbclid=IwAR0IyWkThrhvEulrwsa-52KTiUUCo6G4h4alQk6hJdqFA6y3gForrgXN-V4">
  -->
 
-<img alt="Kritish Bhattarai's streak" src="https://raw.githubusercontent.com/kritish58/kritish58/main/assets/profile.png" />
+<!-- <img alt="Kritish Bhattarai's streak" src="https://raw.githubusercontent.com/kritish58/kritish58/main/assets/profile.png" /> -->
 
 ## Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me Kritish Bhattarai. I'm Full Stack Web Developer
 
