@@ -9,7 +9,7 @@
 
 ## 📊 Github stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kshitijmainali&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kritish58&show_icons=true)
 <br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kritish's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kritish58&theme=monokai-metallian&hide_border=true" />
 <br>
