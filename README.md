@@ -5,7 +5,7 @@
 
 <!-- <img alt="Kritish Bhattarai's streak" src="https://raw.githubusercontent.com/kritish58/kritish58/main/assets/profile.png" /> -->
 
-<!-- ## Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me Kritish Bhattarai. I'm Full Stack Web Developer
+<!-- ## Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me Kritish Bhattarai. I'm Full Stack Web Developer -->
 
 ## 📊 Github stats
 
